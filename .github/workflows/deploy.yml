@@ -96,9 +96,9 @@ jobs:
 
       - name: Version bump
         uses: chkfung/android-version-actions@v1.1
-          with:
-            gradlePath: app/build.gradle
-            versionCode: ${{ github.run_number }}
+        with:
+          gradlePath: app/build.gradle
+          versionCode: ${{ github.run_number }}
 
       - name: Assemble Release Bundle
         run: ./gradlew bundleRelease
