@@ -1,4 +1,4 @@
-package com.mo7aammd.friendstdd
+package com.mo7aammd.freindstdd
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

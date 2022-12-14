@@ -137,7 +137,7 @@ jobs:
         uses: r0adkll/upload-google-play@v1.0.19
         with:
           serviceAccountJson: service_account.json
-          packageName: com.mo7aammd.friendstdd
+          packageName: com.mo7aammd.freindstdd
           releaseFiles: app/build/outputs/bundle/release/app-release.aab
           track: alpha
           status: 'completed'

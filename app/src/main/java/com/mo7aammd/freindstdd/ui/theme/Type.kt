@@ -1,4 +1,4 @@
-package com.mo7aammd.friendstdd.ui.theme
+package com.mo7aammd.freindstdd.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
