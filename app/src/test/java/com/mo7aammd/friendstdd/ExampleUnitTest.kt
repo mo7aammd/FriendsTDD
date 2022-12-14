@@ -1,4 +1,4 @@
-package com.mo7aammd.freindstdd
+package com.mo7aammd.friendstdd
 
 import org.junit.Test
 
