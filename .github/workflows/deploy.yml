@@ -140,5 +140,5 @@ jobs:
           packageName: com.mo7aammd.freindstdd
           releaseFiles: app/build/outputs/bundle/release/app-release.aab
           track: internal
-          status: 'completed'
+          status: 'draft'
           whatsNewDirectory: whatsNewDirectory/
